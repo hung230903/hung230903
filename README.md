@@ -37,9 +37,10 @@
 
 ### 🔥 What I'm working on
 
+- 🏢 Developing **Estate Advance**, a Full-stack Real Estate Management System using **Spring Boot 3**, **Spring Security (JWT & OAuth2)**, **MySQL**, and **Thymeleaf** for the UI.
 - 🏗️ Currently building a **Scalable Data Pipeline** for E-commerce Analytics (Glamira Project).
 - ☁️ Exploring **Google Cloud Platform** deep-dives (Dataflow, Pub/Sub).
-- 📈 Mastering **dbt** for advanced data modeling.
+- 📈 Learning **dbt** for advanced data modeling.
 
 ---
 
