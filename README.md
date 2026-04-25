@@ -50,15 +50,15 @@
 
 ---
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <h3>CURRENTLY UNEMPLOYED</h3>
-      <img src="https://media1.tenor.com/m/3W-jeEA5pgsAAAAC/evaporate-disappear.gif" width="250" />
-    </td>
-    <td align="center">
-      <h3>VIETTEL PLEASE HIRE ME</h3>
-      <img src="https://media1.tenor.com/m/msEscC7u-HwAAAAd/stan-twt-reaction-meme.gif" width="250" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <p>
+    <b>CURRENTLY UNEMPLOYED</b>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <b>VIETTEL PLEASE HIRE ME</b>
+  </p>
+  <p>
+    <img src="https://media1.tenor.com/m/3W-jeEA5pgsAAAAC/evaporate-disappear.gif" width="250" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://media1.tenor.com/m/msEscC7u-HwAAAAd/stan-twt-reaction-meme.gif" width="250" />
+  </p>
+</div>
