@@ -10,7 +10,7 @@
 ### 🛠 My Tech Stack
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Category&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Tools & Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| :------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|:---------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Languages**                                                                                            | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)                                                                                                                                                                                                                                             |
 | **Backend / Web**                                                                                        | ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/-Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white)                                                                        |
 | **Data Engineering**                                                                                     | ![dbt](https://img.shields.io/badge/-dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white) ![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)                                                                                                                        |
@@ -37,7 +37,8 @@
 
 ### 🔥 What I'm working on
 
-- 🏢 Developing **Estate Advance**, a Full-stack Real Estate Management System using **Spring Boot 3**, **Spring Security (JWT & OAuth2)**, **MySQL**, and **Thymeleaf** for the UI.
+- 🏢 Developing **Estate Advance**, a Full-stack Real Estate Management System using **Spring Boot 3**, **Spring
+  Security (JWT & OAuth2)**, **MySQL**, and **Thymeleaf** for the UI.
 - 🏗️ Currently building a **Scalable Data Pipeline** for E-commerce Analytics (Glamira Project).
 - ☁️ Exploring **Google Cloud Platform** deep-dives (Dataflow, Pub/Sub).
 - 📈 Learning **dbt** for advanced data modeling.
@@ -56,11 +57,11 @@
   <tr>
     <td align="center" valign="top" style="border: none;">
       <h3>CURRENTLY UNEMPLOYED</h3>
-      <img src="https://media1.tenor.com/m/3W-jeEA5pgsAAAAC/evaporate-disappear.gif" width="250" />
+      <img src="./evaporate-disappear.gif" width="250" />
     </td>
     <td align="center" valign="top" style="border: none;">
       <h3>VIETTEL PLEASE HIRE ME</h3>
-      <img src="https://media1.tenor.com/m/msEscC7u-HwAAAAd/stan-twt-reaction-meme.gif" width="250" />
+      <img src="/stan-twt-reaction-meme.gif" width="250" />
     </td>
   </tr>
 </table>
