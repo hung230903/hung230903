@@ -41,7 +41,7 @@
   Security (JWT & OAuth2)**, **MySQL**, and **Thymeleaf** for the UI.
 - 🏗️ Currently building a **Scalable Data Pipeline** for E-commerce Analytics (Glamira Project).
 - ☁️ Exploring **Google Cloud Platform** deep-dives (Dataflow, Pub/Sub).
-- 📈 Learning **dbt** for advanced data modeling.
+- 📈 Apply **dbt** for advanced data modeling.
 
 ---
 
