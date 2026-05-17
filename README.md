@@ -60,7 +60,7 @@
       <img src="./evaporate-disappear.gif" width="250" />
     </td>
     <td align="center" valign="top" style="border: none;">
-      <h3>VIETTEL PLEASE HIRE ME</h3>
+      <h3> PLEASE SOMEONE HIRE ME</h3>
       <img src="/stan-twt-reaction-meme.gif" width="250" />
     </td>
   </tr>
