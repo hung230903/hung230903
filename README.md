@@ -53,15 +53,4 @@
 
 ---
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center" valign="top" style="border: none;">
-      <h3>CURRENTLY UNEMPLOYED</h3>
-      <img src="./evaporate-disappear.gif" width="250" />
-    </td>
-    <td align="center" valign="top" style="border: none;">
-      <h3> PLEASE SOMEONE HIRE ME</h3>
-      <img src="/stan-twt-reaction-meme.gif" width="250" />
-    </td>
-  </tr>
-</table>
+
